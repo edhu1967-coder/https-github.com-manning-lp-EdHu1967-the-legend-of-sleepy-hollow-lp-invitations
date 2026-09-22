@@ -1,4 +1,28 @@
-Here is a file that contains the work for milestone 1. You may only be changing existing files, or you may be adding a complete set of files. 
+ChatGPT (:
+Prompt 1:
+Kun je bijgevoegd boek/bestand analyseren en mij dan vertellen waar dit boek/bestand over gaat?
 
-Once you complete your work for milestone 1, you can create a new branch from milestone-1 for your work on milestone 2. Repeat the process of creating a new branch, only name it **milestone-2** instead.
+Answer 1:
+Het bijgevoegde bestand is een uitgebreide tekst van "The Legend of Sleepy Hollow," een beroemde korte verhaal geschreven door Washington Irving.
 
+Hier is een samenvatting van waar het verhaal over gaat:
+
+**Inhoud van "The Legend of Sleepy Hollow":**
+
+- Het verhaal speelt zich af in een vredig, dunbevolkt dorpje genaamd Sleepy Hollow, gelegen aan de oostelijke oever van de Hudson-rivier in de staat New York.
+- De hoofdpersoon is Ichabod Crane, een lange, magere en ietwat onhandige schoolmeester die in Sleepy Hollow komt wonen om kinderen onderwijs te geven.
+- Ichabod heeft een grote fascinatie voor het bovennatuurlijke en gelooft sterk in spookverhalen en heksen, mede door zijn bewondering voor Cotton Mather's geschriften over hekserij.
+- Hij raakt gecharmeerd van Katrina Van Tassel, de dochter van een rijke boer, en hoopt met haar te trouwen om zo zijn eigen sociale en economische status te verbeteren.
+- Echter, Ichabod heeft een rivaliserende concurrent in de liefde: Brom Bones, een ruige, gespierde jongeman die ook om Katrina werft.
+- Tijdens een avondfeest bij Van Tassel ontstaat er een gespannen sfeer tussen Ichabod en Brom.
+- Wanneer Ichabod later die nacht naar huis rijdt, wordt hij achtervolgd door een mysterieus, eng figuur dat bekend staat als de "Headless Horseman" (de koploze ruiter), een spookachtige verschijning die in de omgeving rondwaart.
+- Ichabod vlucht in paniek en wordt nooit meer teruggezien; zijn hoed en een kapotte pompoen worden later gevonden, wat aanleiding geeft tot vermoeden dat de spookrijder hem heeft weggejaagd.
+- Er wordt gesuggereerd dat Brom Bones misschien iets met het mysterieuze verdwijnen te maken heeft, maar het verhaal laat het in het ongewisse tussen bovennatuurlijke verklaringen en menselijke intriges.
+
+Het verhaal combineert folklore, romantiek, humor en spanning en is een klassieke Amerikaanse legende die het thema van angst voor het onbekende en de kracht van verbeelding onderzoekt.
+
+Wil je dat ik een beknopte samenvatting maak van de belangrijkste thema's of karakters?
+
+Display prompt:
+
+Answer display:

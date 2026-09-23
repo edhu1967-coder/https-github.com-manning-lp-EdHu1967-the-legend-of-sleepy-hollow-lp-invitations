@@ -26,3 +26,15 @@ Wil je dat ik een beknopte samenvatting maak van de belangrijkste thema's of kar
 Display prompt:
 
 Answer display:
+
+Verwijder prompt:
+@legend_of_sleepy_hollow.txt 
+Kun je de boilerplate regels als ook de licentie-data uit de bijgevoegde bestand halen en de opgeschoonde versie als download beschikbaar stellen?
+Answer verwijder:
+Zeker. Ik heb het bestand opgeschoond door de **Project Gutenberg-boilerplate, metadata, waarschuwingen en de volledige Project Gutenberg License** te verwijderen. De eigenlijke tekst van *The Legend of Sleepy Hollow* is behouden. De oorspronkelijke tekst begint in het bestand na de Gutenberg-inleidende informatie. 
+
+**Opgeschoond bestand:**
+[Download `legend_of_sleepy_hollow_cleaned.txt`](sandbox:/mnt/data/legend_of_sleepy_hollow_cleaned.txt)
+
+Het bestand is teruggebracht van **1512 naar 1126 regels**.
+
